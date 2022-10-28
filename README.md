@@ -1,5 +1,6 @@
 pynmea2
 =======
+###origin: https://github.com/Knio/pynmea2
 
 `pynmea2` is a python library for the [NMEA 0183](http://en.wikipedia.org/wiki/NMEA_0183) protocol
 
